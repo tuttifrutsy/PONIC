@@ -491,10 +491,10 @@ start();
 
 // SOUND EFECTS
 
-let fxCoin = new Audio("./assets/sound/MSN_RING.wav");
-let fxApple = new Audio("./assets/sound/MSN_FRUIT.wav");
-let fxDamage = new Audio("./assets/sound/FE_MOVE.wav");
-let fxDead = new Audio("./assets/sound/pacman_death.wav");
+let fxCoin = new Audio("./assets/sounds/MSN_RING.wav");
+let fxApple = new Audio("./assets/sounds/MSN_FRUIT.wav");
+let fxDamage = new Audio("./assets/sounds/FE_MOVE.wav");
+let fxDead = new Audio("./assets/sounds/pacman_death.wav");
 
 //UTILITY FUNCTIONS
 
